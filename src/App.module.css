@@ -1,0 +1,11 @@
+.app {
+  @apply mt-8 mx-auto w-fit;
+}
+
+.header {
+  @apply text-4xl text-red-500 font-serif font-semibold;
+}
+
+.p {
+  @apply mt-4;
+}
