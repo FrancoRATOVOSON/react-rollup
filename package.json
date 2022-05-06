@@ -5,8 +5,8 @@
   "author": "Franco RATOVOSON <jean.franco.ratovoson@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "rollup --config rollup.config.dev.js --watch",
-    "build": "rollup --config rollup.config.prod.js"
+    "dev": "rollup --config .mlk/rollup.config.dev.js --watch",
+    "build": "rollup --config .mlk/rollup.config.prod.js"
   },
   "dependencies": {
     "react": "^18.1.0",
